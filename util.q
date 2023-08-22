@@ -1,3 +1,5 @@
+// Capstone Comment
+
 //////////////////////////////////////////////////////
 //                                                  //
 //         Overwrite of Logging Library             //
