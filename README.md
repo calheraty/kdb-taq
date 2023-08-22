@@ -1,5 +1,7 @@
 # kdb+taq
 
+# This document has been edited as part of the Version Control Capstone.
+
 ## Changes to kdb+taq
 
 ### 2022.01.06 (`Bid_Price` type fix in tq.q)
